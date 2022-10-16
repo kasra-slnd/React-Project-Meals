@@ -27,6 +27,12 @@ const DUMMY_MEALS = [
     description: "Healthy...and green...",
     price: 18.99,
   },
+  {
+    id: "m5",
+    name: "salat",
+    description: "vegtables",
+    price: 10.49,
+  },
 ];
 
 const AvailableMeals = () => {
